@@ -3,3 +3,4 @@ git
 status
 push
 init
+Это строка из основной ветки
