@@ -1,0 +1,5 @@
+git
+1T
+status
+push
+init
