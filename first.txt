@@ -3,3 +3,4 @@ git
 status
 push
 init
+Строка из новой ветки
